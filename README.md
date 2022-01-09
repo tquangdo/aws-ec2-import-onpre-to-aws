@@ -5,6 +5,8 @@
 ![Forks](https://img.shields.io/github/forks/tquangdo/aws-ec2-import-onpre-to-aws?color=f05340)
 [![Report an issue](https://img.shields.io/badge/Support-Issues-green)](https://github.com/tquangdo/aws-ec2-import-onpre-to-aws/issues/new)
 
+![overview](screenshots/overview.png)
+
 1. ## reference
     [youtube](https://www.youtube.com/watch?v=buzusNljpy4)
 

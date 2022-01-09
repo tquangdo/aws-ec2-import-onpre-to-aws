@@ -1,0 +1,10 @@
+[
+    {
+        "Description": "centosv7",
+        "Format": "vmdk",
+        "UserBucket": {
+            "S3Bucket": "'${bucket_name}'",
+            "S3Key": "'${vm_image_name}'"
+        }
+    }
+]

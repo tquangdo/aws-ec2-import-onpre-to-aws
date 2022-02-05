@@ -5,7 +5,7 @@
 ![Forks](https://img.shields.io/github/forks/tquangdo/aws-ec2-import-onpre-to-aws?color=f05340)
 [![Report an issue](https://img.shields.io/badge/Support-Issues-green)](https://github.com/tquangdo/aws-ec2-import-onpre-to-aws/issues/new)
 
-![overview](screenshots/overview.png)
+![detail](screenshots/detail.png)
 
 1. ## reference
     [youtube](https://www.youtube.com/watch?v=buzusNljpy4)
@@ -87,7 +87,7 @@
     ```
 
 1. ## AMI
-    - launch `import-ami-???`
+    - launch `import-ami-xxx`
     ![ami](screenshots/ami.png)
     - will have a result migrated EC2
     ![ec2](screenshots/ec2.png)
